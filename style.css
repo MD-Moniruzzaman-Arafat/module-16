@@ -1,0 +1,23 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+.carousel-img img{
+    height: 522px;
+}
+footer img{
+    width: 200px;
+    border-radius: 20px;
+    border: 2px solid gray;
+    margin: 5px;
+}
+.card-style{
+    border-radius: 20px;
+}
+.card-focus{
+    background-color: rgba(0, 0, 139, 0.693);
+    color: white;
+}
+.items li{
+    list-style: none;
+
+}
